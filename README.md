@@ -6,6 +6,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub](https://img.shields.io/badge/GitHub-View-181717?style=for-the-badge&logo=github)](https://github.com/mastersflash19/flappy-bird-2.0)
 
+---
+
 ## 📖 Description
 
 **Flappy Bird 2.0** is a recreation of the classic Flappy Bird game built with **Java Swing** and **AWT**. This project was developed as a collaborative effort by **Team Apollo** to demonstrate proficiency in GUI development, event-driven programming, and game development fundamentals.
@@ -42,7 +44,36 @@
   - **R** - Resume game
   - **S** - Restart game
 - 📱 **Mouse Support** - Click to restart after game over
-- 💻 **Desktop Support** - Full keyboard controls
+
+---
+
+## 📸 Screenshots
+
+### Start Screen
+The main menu with the game title and PLAY button.
+
+![Start Screen](assets/screenshots/start-screen.png)
+
+### Gameplay
+In-game view showing the bird navigating through pipes with score display and controls.
+
+![Gameplay](assets/screenshots/gameplay.png)
+
+### Gameplay with Score
+Active gameplay showing the score counter and keyboard controls.
+
+![Gameplay with Score](assets/screenshots/gameplay-score.png)
+
+### Game Over Screen
+Game over screen displaying your final score with option to restart.
+
+![Game Over](assets/screenshots/game-over.png)
+
+### Additional Screenshots
+
+| Start Screen | Gameplay |
+|--------------|----------|
+| ![Start Screen 2](assets/screenshots/start-screen2.png) | ![Gameplay 2](assets/screenshots/gameplay2.png) |
 
 ---
 
@@ -99,6 +130,23 @@
 
 ---
 
-## 📸 Screenshots
+## 🚀 Installation
 
-*Coming soon!*
+### Prerequisites
+- **Java JDK 8** or higher
+- **Git** (for cloning)
+
+### Steps
+
+```bash
+# Clone the repository
+git clone https://github.com/mastersflash19/flappy-bird-2.0.git
+
+# Navigate to project directory
+cd flappy-bird-2.0
+
+# Compile the code
+javac -d out src/*.java
+
+# Run the game
+java -cp out App
