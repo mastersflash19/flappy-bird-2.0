@@ -52,7 +52,7 @@
 ### Start Screen
 The main menu with the game title and PLAY button.
 
-![Start Screen](assets/screenshots/start-screen.png)
+![Start Screen]([assets/screenshots/start-screen.png](https://github.com/mastersflash19/flappy-bird-2.0/blob/main/FlappyApp/assets/screenshots/flappy-startscreen.png))
 
 ### Gameplay
 In-game view showing the bird navigating through pipes with score display and controls.
