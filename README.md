@@ -69,11 +69,7 @@ Game over screen displaying your final score with option to restart.
 
 ![Game Over](assets/screenshots/game-over.png)
 
-### Additional Screenshots
 
-| Start Screen | Gameplay |
-|--------------|----------|
-| ![Start Screen 2](assets/screenshots/start-screen2.png) | ![Gameplay 2](assets/screenshots/gameplay2.png) |
 
 ---
 
